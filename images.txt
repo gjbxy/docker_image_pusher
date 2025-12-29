@@ -8,4 +8,5 @@ alpine
 nginx
 redis
 mysql
+zookeeper
 hashicorp/consul
