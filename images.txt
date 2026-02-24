@@ -3,11 +3,11 @@ node:24-alpine
 node:20-alpine
 node:18-alpine
 node
+ghcr.io/lukegus/termix:latest
 portainer/portainer-ce:alpine
 alpine
 nginx
 redis
 mysql
 zookeeper
-hashicorp/consul
-ghcr.io/lukegus/termix:latest
+#hashicorp/consul
